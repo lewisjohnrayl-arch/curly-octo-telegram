@@ -95,6 +95,44 @@ weather-dashboard/
 - [ ] Air quality index (AQI)
 - [ ] Multiple city comparison
 
+
+## Geospatial Technology Education Topics
+
+This project can be extended with educational modules or dashboard overlays for geospatial learning, including:
+
+- Geographic Information Systems (GIS)
+- Cartography & Map Design
+- Remote Sensing
+- Spatial Analysis
+- Geospatial Data Visualization
+- GPS & Navigation Technology
+- Drone Mapping Fundamentals
+- Terrain & Topographic Mapping
+- Environmental Mapping
+- Geospatial Technology Education
+
+## Artificial Intelligence Applications
+
+This project can also support AI-focused learning modules and product enhancements, including:
+
+- Prompt Engineering
+- AI Content Creation
+- AI-Assisted Design
+- Data Visualization
+
+## Social Media Marketing
+
+This project can be expanded with marketing-focused content and engagement strategies, including:
+
+- Search Engine Optimization (SEO)
+- Email Marketing
+- Content Marketing
+- Brand Development
+- Product Description Writing
+- Market Research
+- Community Building
+- Customer Engagement
+
 ## Browser Support
 
 - Chrome (latest)
